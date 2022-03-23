@@ -1,1 +1,1 @@
-# matplotlib_biologa_natalia
+# curso-matplotlib
